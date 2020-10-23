@@ -4,7 +4,7 @@ Bacteria[] bob;
  {     
    background(0);
    size(400,400);
-   bob = new Bacteria[100];
+   bob = new Bacteria[350];
    for (int i=0; i< bob.length; i++)
    {
    bob[i] = new Bacteria();
